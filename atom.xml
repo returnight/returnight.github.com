@@ -4,7 +4,7 @@
   <title><![CDATA[三更归来]]></title>
   <link href="http://returnight.github.io/atom.xml" rel="self"/>
   <link href="http://returnight.github.io/"/>
-  <updated>2014-03-16T23:40:51+08:00</updated>
+  <updated>2014-03-16T23:46:05+08:00</updated>
   <id>http://returnight.github.io/</id>
   <author>
     <name><![CDATA[returnight]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[my blog for developer and life]]></title>
+    <link href="http://returnight.github.io/blog/2014/03/16/my-blog-for-developer-and-life/"/>
+    <updated>2014-03-16T23:44:31+08:00</updated>
+    <id>http://returnight.github.io/blog/2014/03/16/my-blog-for-developer-and-life</id>
+    <content type="html"><![CDATA[<p>这是我的技术和生活博客，第一次弄好没有弄好！</p>
+]]></content>
+  </entry>
   
 </feed>
